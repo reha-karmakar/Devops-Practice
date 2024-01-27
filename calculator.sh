@@ -15,4 +15,8 @@ b=5
 #Addition Function
 echo $(a+b)
 
+#Subtractiion Function
+echo $a-$b
+
+
 
